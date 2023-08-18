@@ -1,0 +1,28 @@
+.card{
+    width: 450px;
+    height: 250px;
+    margin-top: 10px;
+    
+}
+.cardTitle{
+    font-size: 40px;
+    
+}
+.cardInfo{
+    border: 1px solid white;
+    border-radius: 10px 40px;
+    font-size: 20px;
+    padding: 20px;
+    margin: 10px 0px;
+    margin-left: 0px;
+    animation: 1s slide-left;
+}
+@keyframes slide-left {
+    from {
+      margin-left: 20%;
+    }
+    to {
+      margin-left: 0%;
+    }
+  }
+  

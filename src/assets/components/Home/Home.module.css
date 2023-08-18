@@ -1,0 +1,11 @@
+
+.container{
+    width: 1280px;
+    margin: 0 auto;
+    font-size: 40px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0px;
+}

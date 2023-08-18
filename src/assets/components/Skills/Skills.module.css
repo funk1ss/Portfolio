@@ -1,0 +1,8 @@
+.flexStart{
+    display: flex;
+    justify-content: start;
+}
+.flexEnd{
+    display: flex;
+    justify-content: end;
+}

@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Tilt+Prism&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+    
+    color: white
+}
+body{
+    margin: 0px;
+    background: url('./background.jpg');
+    
+}

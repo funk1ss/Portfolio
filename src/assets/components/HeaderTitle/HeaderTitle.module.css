@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+.headerTitle {
+    font-family: 'Tilt Prism', cursive;
+    animation: blinker 2.5s linear infinite;
+    color: #fff;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 50px #fff,
+      0 0 100px #fff, 0 0 200px #fff;
+  }
+  @keyframes blinker {
+    70% {
+      opacity: 35%;
+    }
+  }
